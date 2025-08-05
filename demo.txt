@@ -1,0 +1,33 @@
+# Student Portal Demo
+
+This is a demo project for a basic **Student Portal** application.
+
+## 📘 Project Overview
+
+The Student Portal is a web application designed to help students and faculty manage academic activities. It serves as a centralized system for:
+
+- Viewing personal profiles
+- Accessing grades and attendance
+- Submitting assignments
+- Communicating with teachers and classmates
+- Viewing academic calendar and announcements
+
+## 🚀 Features
+
+- Student and Faculty Login
+- Course Enrollment
+- Assignment Submission & Tracking
+- Internal Marks & Attendance View
+- Admin Panel for user and course management
+- Notifications and Announcements
+
+## 🛠️ Tech Stack (Suggested)
+
+- **Frontend**: HTML, CSS, JavaScript (React.js recommended)
+- **Backend**: Node.js / Django / Flask
+- **Database**: MySQL / MongoDB
+- **Authentication**: JWT / OAuth
+
+---
+
+> This is a basic structure and can be extended with more features like online exams, fee payment, etc.
